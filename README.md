@@ -4,6 +4,12 @@ It consists of two modules. The first one is a pretrained CNN model, which is us
 to extract the features from the image sequences. The second one is the RGWR network [2], which
 uses the extracted features as the input data for continuous object learning.
 
+Update 01.03.2024: This repository is archived.
+The following repositories are not accessible anymore:
+[Feature extraction](https://github.com/VadymV/TF_FeatureExtraction),
+[Tensorflow models](https://github.com/VadymV/models),
+[GWR extensions](https://github.com/VadymV/GWR-Extensions).
+
 ### Requirements:
 1. A Linux-based system (tested on a Xubuntu 16.04 system).
 2. GPU with installed drivers for CUDA=9.0 and cuDNN=7.0.5. Other (newer) versions are also possible, but were not tested.
